@@ -1,4 +1,4 @@
-const User = require("../model/user");
+const User = require("../model/user.model");
 
 /**
  * Handles the retrieval of all users from the database.
